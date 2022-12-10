@@ -1,2 +1,4 @@
 Test branch 1.
 Zmiana do konfliktu.
+Zmiana na branchu branch-conflict-2.
+Rozwiązano konflikt.
